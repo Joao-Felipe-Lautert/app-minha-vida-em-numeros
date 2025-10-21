@@ -239,7 +239,7 @@ export default function App() {
             <Text style={styles.botaoTexto}>Exportar arquivo JSON</Text>
           </TouchableOpacity>
         </View>
-        <text style={styles.direitos}>Feito por: João Felipe Lautert</text>
+        <Text style={styles.direitos}>Feito por: João Felipe Lautert</Text>
       </ScrollView>
     </SafeAreaView>
   );
